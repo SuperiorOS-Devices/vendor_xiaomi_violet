@@ -496,7 +496,6 @@ PRODUCT_PACKAGES += \
     android.hardware.bluetooth@1.0-impl-qti \
     android.hardware.gatekeeper@1.0-impl-qti \
     camera.qcom \
-    com.dsi.ant@1.0-impl \
     com.qti.chi.override \
     com.qti.chi.override_moorea \
     consumerir.sm6150 \
