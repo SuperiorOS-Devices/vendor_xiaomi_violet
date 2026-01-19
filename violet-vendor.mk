@@ -557,6 +557,7 @@ PRODUCT_PACKAGES += \
     libdisp-aba \
     libdisplayqos \
     libdpmqmihal \
+    libdpps \
     libdrmtime \
     libdsi_netctrl \
     libfastcvdsp_stub \
