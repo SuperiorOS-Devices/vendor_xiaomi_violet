@@ -310,7 +310,6 @@ PRODUCT_PACKAGES += \
     vulkan.adreno \
     libC2D2 \
     libCB \
-    libI420colorconvert \
     libOpenCL \
     libQSEEComAPI \
     libVkLayer_q3dtools \
@@ -343,7 +342,6 @@ PRODUCT_PACKAGES += \
     libmdmdetect \
     libmdsprpc \
     libminkdescriptor \
-    libmm-color-convertor \
     libmm-hdcpmgr \
     liboemcrypto \
     libpvr \
@@ -364,19 +362,11 @@ PRODUCT_PACKAGES += \
     librmp \
     libsdsprpc \
     libspl \
-    libstagefright_soft_qtiflacdec \
-    libvppclient \
-    libvpphvx \
-    libvpplibrary \
-    libvpptestutils \
     libwvhidl \
     libwvdrmengine \
     libasphere \
     vendor.qti.hardware.dsp@1.0 \
     vendor.qti.hardware.fingerprint@1.0 \
-    vendor.qti.hardware.vpp@1.1 \
-    vendor.qti.hardware.vpp@1.2 \
-    vendor.qti.hardware.vpp@1.3 \
     vendor.qti.qspmhal@1.0 \
     btaudio_offload_if \
     audio.bluetooth_qti.default \
@@ -660,6 +650,10 @@ PRODUCT_PACKAGES += \
     libtinyxml2_1 \
     libvendor.goodix.hardware.interfaces.biometrics.fingerprint@2.1 \
     libvidhance \
+    libvppclient \
+    libvpphvx \
+    libvpplibrary \
+    libvpptestutils \
     libwms \
     libwqe \
     libxml \
@@ -735,6 +729,9 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.radio.uim_remote_server@1.0 \
     vendor.qti.hardware.soter@1.0 \
     vendor.qti.hardware.tui_comm@1.0 \
+    vendor.qti.hardware.vpp@1.1 \
+    vendor.qti.hardware.vpp@1.2 \
+    vendor.qti.hardware.vpp@1.3 \
     vendor.qti.ims.callcapability@1.0 \
     vendor.qti.ims.callinfo@1.0 \
     vendor.qti.ims.factory@1.0 \
