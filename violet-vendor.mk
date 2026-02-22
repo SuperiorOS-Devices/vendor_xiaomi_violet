@@ -312,12 +312,10 @@ PRODUCT_PACKAGES += \
     libCB \
     libOpenCL \
     libQSEEComAPI \
-    libVkLayer_q3dtools \
     libacdb-fts \
     libacdbloader \
     libacdbrtac \
     libadiertac \
-    libadreno_app_profiles \
     libadreno_utils \
     libadsp_default_listener \
     libadsprpc \
@@ -331,7 +329,6 @@ PRODUCT_PACKAGES += \
     libdiag \
     libdrmfs \
     libdsutils \
-    libgpudataproducer \
     libgsl \
     libhdcp1prov \
     libhdcp2p2prov \
@@ -344,7 +341,6 @@ PRODUCT_PACKAGES += \
     libminkdescriptor \
     libmm-hdcpmgr \
     liboemcrypto \
-    libpvr \
     libqcbor \
     libqcci_legacy \
     libqdi \
